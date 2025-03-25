@@ -2,25 +2,16 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/bdj-hp-about.jpg
+background: /assets/images/placeholders/hp-about.jpg
 imageLicense: |
-  Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
+  Tran AD, Zettel H, Sites RW (2023) Revision of the genus _Eotrechus_ Kirkaldy (Hemiptera, Heteroptera, Gerridae), with descriptions of six new species. Deutsche Entomologische Zeitschrift 70(1): 69-111. [https://doi.org/10.3897/dez.70.97117](https://doi.org/10.3897/dez.70.97117)
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Biodiversity Data Journal](https://bdj.pensoft.net/).
+This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Deutsche Entomologische Zeitschrift](https://dez.pensoft.net/).
 
-**Biodiversity Data Journal (BDJ)** is a community peer-reviewed, open access, comprehensive online platform, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. All structural elements of the articles – text, morphological descriptions, occurrences, data tables etc. – will be treated and stored as data, in accordance with the Data [Publishing Policies and Guidelines of Pensoft Publishers](https://doi.org/10.3897/rio.3.e12431).
+**Deutsche Entomologische Zeitschrift** is an international peer-reviewed journal of systematic entomology published by Pensoft on behalf of the Museum für Naturkunde, Leibniz Institute for Research on Evolution and Biodiversity at the Humboldt University Berlin. It publishes original research papers in English on the systematics, taxonomy, phylogeny, comparative functional morphology, and biogeography of insects. Other arthropods are also considered where of relevance to the biology of insects. The geographical scope of the journal is worldwide. Priority is given to revisional work and comprehensive studies of phylogenetic, biological or zoogeographical relevance. We also invite review articles pertaining to the systematics and biology of insects.
 
-The journal will publish papers in biodiversity science containing taxonomic, floristic/faunistic, morphological, genomic, phylogenetic, ecological or environmental data on any taxon of any geological era from any part of the world with no lower or upper limit to manuscript size. For example:
+**Deutsche Entomologische Zeitschrift** is dedicated to provide an open access high-quality forum to contribute to the documentation of insect species, their distribution, their properties, and their phylogenetic relationships. All submitted manuscripts are subject to peer-review by the leading specialists for the respective topic. Distinguished authorities form the international advisory board which guarantees the high scientific profile of the journal. This is reflected by an outstanding print quality which is adept in conveying the valuable information contained in the often detailed line drawings and photographs of scientific illustrations. The journal is published in open access high-resolution PDF, semantically enriched HTML and machine-readable XML versions.
 
-* single taxon treatments and nomenclatural acts (e.g., new taxa, new taxon names, new synonyms, changes in taxonomic status, re-descriptions, etc.);
-* data papers describing biodiversity-related databases, including ecological and environmental data;
-* sampling reports, local observations or occasional inventories, if these contain novel data;
-* local or regional checklists and inventories;
-* habitat-based checklists and inventories;
-* ecological and biological observations of species and  communities;
-* any kind of identification keys, from conventional dichotomous to multi-access interactive online keys;
-* descriptions of biodiversity-related software tools.
-  
-For more information, you may look at the Editorial [Beyond dead trees: integrating the scientific process in the Biodiversity Data Journal](https://bdj.pensoft.net/articles.php?id=995) and press release [The Biodiversity Data Journal: Readable by humans and machines](http://www.eurekalert.org/pub_releases/2013-09/pp-tbd091613.php).
+Descriptions of single species are encouraged if they form part of a work of broader importance (e.g. key or revision of the species in a wide region; revision of the particular species group; separation of widespread cryptic species), or are of particular scientific importance (e.g. disease vector, representative of a new genus, sister-group of a large clade), or are exceptional in some respect (e.g. species in danger of extinction, large extension of the geographical range of a higher taxon).

@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Deutsche Entomologische Zeitschrift
+description: Browse data on GBIF associated with publications in Deutsche Entomologische Zeitschrift
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Yetchom Fondjo JA, Husemann M, Nzoko Fiemapong AR, Missoup AD, Kenne M, Tindo M, Hawlitschek O, Duressa TF, Xu S-Q, Zhu W, Hemp C (2024) Integrative taxonomic revision of the grasshopper genera _Parapetasia_ Bolívar, 1884, and _Loveridgacris_ Rehn, 1954 (Orthoptera, Pyrgomorphidae), with description of a new species of _Loveridgacris_. Deutsche Entomologische Zeitschrift 71(2): 265-287. [https://doi.org/10.3897/dez.71.125877](https://doi.org/10.3897/dez.71.125877)"
 height: 75vh
 cta:
   - text: Datasets
